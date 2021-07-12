@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkTamara
+- 👋 Hi, I’m Andreea!
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Script,, but i plan on looking into React, Angular maybe and more
 - 📫 How to reach me ...
