@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andreea!
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java Script, but i plan on looking into React, Angular maybe and more
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Java Script, but i plan on looking into React and more
+
 
 <!---
 DarkTamara/DarkTamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
